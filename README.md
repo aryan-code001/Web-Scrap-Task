@@ -27,3 +27,5 @@ re : Used for data cleaning, specifically to remove unwanted  characters from te
 datetime.date: Used to get the current date.
 
 pandas: Used to structure the extracted data into a DataFrame and handle CSV file operations. Chosen for its powerful data manipulation, tabular data representation, and ease of integrating with CSV and other data formats.
+
+Only Problem I faced to get requied materials, they were not separable element wise as it was very difficult to get them under a dataframe of same id. 
